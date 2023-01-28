@@ -9,6 +9,8 @@ Goodrouter is a router implemented in two languages, TypeScript and Rust. The ro
 
 It's a good router!
 
+Join our [Discord Server](https://discord.gg/D4URzsTb)!
+
 ## Documentation
 
 - [Goodrouter, TypeScript edition](https://ts.goodrouter.org)
