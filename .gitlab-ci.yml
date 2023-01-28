@@ -23,3 +23,5 @@ publish-cloudflare:
         npx wrangler pages deployment create ./out
         --commit-dirty=true
         --project-name $CI_PROJECT_NAME
+        --branch main
+
