@@ -20,6 +20,6 @@ publish-cloudflare:
   dependencies: [prepare]
   script:
     - >
-        npx wrangler pages deployment ./out
+        npx wrangler pages deployment create ./out
         --commit-dirty=true
         --project-name $CI_PROJECT_NAME
