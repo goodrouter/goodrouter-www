@@ -1,0 +1,9 @@
+.*
+*.log
+/node_modules/
+/out/
+!/.vscode/
+!.gitignore
+!.gitattributes
+!.npmrc
+!.eleventy.js
