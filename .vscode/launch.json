@@ -10,7 +10,11 @@
       "name": "Serve",
       "runtimeExecutable": "npx",
       "program": "@11ty/eleventy",
-      "args": ["--serve", "--port", "8080"],
+      "args": [
+        "--serve",
+        "--port",
+        "8080"
+      ],
       "cwd": "${workspaceFolder}"
     },
     {

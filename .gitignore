@@ -1,9 +1,14 @@
 .*
 *.log
-/node_modules/
-/out/
-!/.vscode/
+
 !.gitignore
 !.gitattributes
+!.editorconfig
+!.gitlab-ci.yml
 !.npmrc
 !.eleventy.js
+
+/node_modules/
+/out/
+
+!/.vscode/
