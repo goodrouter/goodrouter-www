@@ -22,6 +22,4 @@ publish-cloudflare:
   image: node:18
   dependencies: [initialize]
   script:
-    - echo '//registry.npmjs.org/:_authToken=${NPM_TOKEN}' >> .npmrc
-    - npm version $CI_COMMIT_TAG
-    - npm publish
+    - npx wrangler pages publish ./out --project-name $CI_PROJECT_NAME

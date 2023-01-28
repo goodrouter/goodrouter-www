@@ -12,6 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
-    "github-markdown-css": "^5.1.0"
+    "github-markdown-css": "^5.1.0",
+    "wrangler": "^2.8.1"
   }
 }
