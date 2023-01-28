@@ -1,5 +1,5 @@
 {
-  "name": "11ty-lab",
+  "name": "goodrouter-www",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "compile": "eleventy",
     "clean": "rm -rf out"
   },
-  "author": "",
+  "author": "LuvDaSun Software B.V.",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
