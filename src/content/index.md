@@ -14,4 +14,4 @@ Join our [Discord Server](https://discord.gg/D4URzsTb)!
 ## Documentation
 
 - [Goodrouter, TypeScript edition](https://ts.goodrouter.org)
-- [Goodrouter, Rust edition](https://docs.rs/goodrouter)
+- [Goodrouter, Rust edition](https://docs.rs/crate/goodrouter)
