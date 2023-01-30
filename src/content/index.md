@@ -11,7 +11,7 @@ It's a good router!
 
 But it's a little too low level to use it as it is. Goodrouter wants to be a basis for many routers so these routers can enjoy the incredible performance that it brings.
 
-Join our (Discord server)[https://discord.gg/BJ8v7xTq8d]!
+Join our [Discord server](https://discord.gg/BJ8v7xTq8d)!
 
 ## Documentation
 

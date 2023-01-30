@@ -9,4 +9,4 @@ A good router should:
 - [x] be framework agnostic
 - [x] be very minimal and simple!
 
-Join our (Discord server)[https://discord.gg/BJ8v7xTq8d]!
+[Discord server](https://discord.gg/BJ8v7xTq8d)
