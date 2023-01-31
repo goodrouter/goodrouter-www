@@ -15,4 +15,4 @@ Join our [Discord server](https://discord.gg/BJ8v7xTq8d)!
 
 - [Goodrouter, TypeScript edition](https://ts.goodrouter.org)
 - [Goodrouter, Rust edition](https://docs.rs/crate/goodrouter)
-- [Goodrouter, Rust edition](https://www.fuget.org/packages/goodrouter)
+- [Goodrouter, C# edition](https://www.fuget.org/packages/goodrouter)
