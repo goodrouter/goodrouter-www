@@ -21,4 +21,5 @@ Join our [Discord server](https://discord.gg/BJ8v7xTq8d)!
   - [docs.rs](https://docs.rs/crate/goodrouter)
 - C# edition
   - [NuGet](https://www.nuget.org/packages/goodrouter)
-  - [FuGet](https://www.fuget.org/packages/goodrouter)
+  - [NuGet Package Explorer](https://nuget.info/packages/goodrouter/)
+  - [FuGet Package Explorer](https://www.fuget.org/packages/goodrouter)
