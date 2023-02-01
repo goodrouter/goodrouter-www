@@ -11,8 +11,14 @@ It's a good router!
 
 Join our [Discord server](https://discord.gg/BJ8v7xTq8d)!
 
-## Documentation
+## Links
 
-- [Goodrouter, TypeScript edition](https://ts.goodrouter.org)
-- [Goodrouter, Rust edition](https://docs.rs/crate/goodrouter)
-- [Goodrouter, C# edition](https://www.fuget.org/packages/goodrouter)
+- TypeScript edition
+  - [TypeDoc](https://ts.goodrouter.org)
+  - [NPM](https://www.npmjs.com/package/goodrouter)
+- Rust edition
+  - [crates.io](https://crates.io/crates/goodrouter)
+  - [docs.rs](https://docs.rs/crate/goodrouter)
+- C# edition
+  - [NuGet](https://www.nuget.org/packages/goodrouter)
+  - [FuGet](https://www.fuget.org/packages/goodrouter)
