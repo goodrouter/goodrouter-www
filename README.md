@@ -1,4 +1,4 @@
-# GoodRouter, the website
+# Goodrouter, the website
 
 A good router should:
 
