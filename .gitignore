@@ -4,7 +4,6 @@
 !.gitignore
 !.gitattributes
 !.editorconfig
-!.gitlab-ci.yml
 !.npmrc
 !.eleventy.js
 
@@ -12,3 +11,4 @@
 /out/
 
 !/.vscode/
+!/.github/
