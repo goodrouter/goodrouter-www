@@ -7,7 +7,7 @@
   "author": "LuvDaSun Software B.V.",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.0",
     "github-markdown-css": "^5.1.0",
     "wrangler": "^2.12.2"
   }
