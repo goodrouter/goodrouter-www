@@ -13,6 +13,8 @@ jobs:
       CLOUDFLARE_ACCOUNT_ID: ${{ vars.CLOUDFLARE_ACCOUNT_ID}}
     steps:
       - uses: actions/checkout@v3
+        with:
+          lfs: true
       - run: npm ci
       - run: >
           npx wrangler pages publish ./out
